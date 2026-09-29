@@ -3,3 +3,4 @@ b = float(input("请输入第二个数字："))
 
 print("加法结果：", a + b)
 print("减法结果：", a - b)
+print("乘法结果：", a * b)
